@@ -12,7 +12,7 @@ HTML & CSS <br/>
 
 **Installation** <br/>
 Clone the repository: <br/>
-**git clone https://github.com/your-username/stopwatch-app.git** <br/>
+**git clone --> https://github.com/your-username/stopwatch-app.git** <br/>
 Navigate to the project directory: <br/>
 cd stopwatch-app <br/>
 
