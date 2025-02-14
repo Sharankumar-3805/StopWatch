@@ -5,7 +5,7 @@ Start, pause, and reset the stopwatch  <br/>
 Track elapsed time in hours, minutes, seconds, and milliseconds  <br/>
 User-friendly interface with responsive design <br/>
 Lightweight and fast performance <br/>
-**Technologies Used ** <br/>
+**Technologies Used** <br/>
 React.js <br/>
 JavaScript (ES6+) <br/>
 HTML & CSS <br/>
